@@ -1,3 +1,3 @@
 # PCBs
 ## Power Supply
-![PCB](/PowerSupply/PowerSupply_PCB.png "Power Supply PCB") ![3D](/PowerSupply/PowerSupply_3D.png "Power Supply 3D").
+<img src="/PowerSupply/PowerSupply_PCB.png" width="300" height="500"> <img src="/PowerSupply/PowerSupply_3D.png" width="300" height="500">
