@@ -4,3 +4,6 @@
 
 ## Arduino Based Datalogger
 <img src="/Arduino_Datalogger/ArduinoDatalogger_PCB.png" width="600" height="500"> <img src="/Arduino_Datalogger/ArduinoDatalogger_3D.png" width="600" height="500">
+
+## LED Matrix
+<img src="/LED_Matrix/LEDMatrix_3D.png" width="600" height="500"> <img src="/LED_Matrix/LEDMatrix_3D.png" width="600" height="500">
