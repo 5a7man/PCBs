@@ -16,3 +16,9 @@
 
 ## Wireless Power Transmission
 <img src="/Wireless_Power_Transmission/WPT_1.png" width="600" height="500"> <img src="/Wireless_Power_Transmission/WPT_2.png" width="600" height="500">
+
+## Bluetooth Controlled Vehicle
+<img src="/Bluetooth_Controlled_Vehicle/Bluetooth_Controlled_Vehicle.png" width="600" height="500">
+
+## Metal Detector
+<img src="/Metal_Detector/MD.png" width="600" height="500">
