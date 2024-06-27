@@ -9,7 +9,7 @@
 <img src="/LED_Matrix/LEDMatrix_PCB.png" width="600" height="500"> <img src="/LED_Matrix/LEDMatrix_3D.png" width="600" height="500">
 
 ## Amplitude Modulation and Demodulation
-<img src="/Amplitue_Modulation_and_Demodulation/AM_1.png" width="600" height="500"> <img src="/Amplitue_Modulation_and_Demodulation/AM_2.png" width="600" height="500">
+<img src="/Amplitude_Modulation_and_Demodulation/AM_1.png" width="600" height="500"> <img src="/Amplitude_Modulation_and_Demodulation/AM_2.png" width="600" height="500">
 
 ## Class D Amplifier
 <img src="/Class_D_Amplifier/ClassD_1.png" width="600" height="500"> <img src="/Class_D_Amplifier/ClassD_2.png" width="600" height="500">
